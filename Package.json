@@ -1,0 +1,13 @@
+﻿{
+    "name": "com.webbifox.tools",
+    "version": "1.0.0",
+    "displayName": "小狐 WebbiFox 工具包",
+    "description": "場景控制器, Log輸出, 音效管理器 以及 音效播放器",
+    "unity": "2022.3.X",
+
+    "author": {
+        "name": "WebbiFox",
+        "email": "",
+        "url": ""
+    }
+}
